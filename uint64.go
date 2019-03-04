@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"strconv"
 
-	"github.com/volatiletech/null/convert"
+	"github.com/ravenops/null/convert"
 )
 
 // Uint64 is an nullable uint64.

@@ -8,8 +8,8 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/volatiletech/null/convert"
-	"github.com/volatiletech/sqlboiler/randomize"
+	"github.com/ravenops/null/convert"
+	"github.com/ravenops/sqlboiler/randomize"
 )
 
 // Int32 is an nullable int32.

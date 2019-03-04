@@ -20,7 +20,7 @@ please stop using gopkg.in and ensure you're using `vgo`, `dep` or vendoring to
 version null.
 
 ```
-go get -u "github.com/volatiletech/null"
+go get -u "github.com/ravenops/null"
 ```
 
 ### Usage
